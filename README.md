@@ -1,24 +1,4 @@
-# 🚀 FastAPI Project
-
-> A simple FastAPI project demonstrating API routes, request validation, and async endpoints.
-
----
-
-## 📌 Features
-- ⚡ Fast and lightweight
-- 🧠 Easy to understand
-- 🔧 Built with Python & FastAPI
-- 📄 Auto-generated docs (Swagger UI)
-- 🔒 Input validation with Pydantic
-
----
-
-## 🛠 Tech Stack
-- **Language:** Python 3.10+  
-- **Framework:** FastAPI  
-- **Server:** Uvicorn  
-- **Version Control:** Git & GitHub
-
----
-
-## 📂 Project Structure
+![Python](https://img.shields.io/badge/python-3.10+-blue)
+![FastAPI](https://img.shields.io/badge/FastAPI-v0.100-green)
+![License](https://img.shields.io/badge/license-MIT-orange)
+![GitHub Issues](https://img.shields.io/github/issues/yourusername/fastapi_project)
