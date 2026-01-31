@@ -1,1 +1,1 @@
-![GitHub Activity](https://img.shields.io/github/commit-activity/m/yourusername/fastapi_project)
+![Automatic Snake](https://media.giphy.com/media/3o7aD2saalBwwftBIY/giphy.gif)
